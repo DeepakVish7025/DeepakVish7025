@@ -2,7 +2,13 @@
 <h3 align="center">Full Stack Developer — building fast, scalable products with Next.js & Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%E2%9A%A1;Node.js+%7C+Express+%7C+PostgreSQL+%F0%9F%9B%A0%EF%B8%8F;Currently+Learning+DevOps+%F0%9F%90%B3;Grinding+DSA+Everyday+%F0%9F%A7%A0;Industry+Ready.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%E2%9A%A1;Node.js+%7C+Express+%7C+PostgreSQL+%F0%9F%9B%A0%EF%B8%8F;Currently+Learning+DevOps+%F0%9F%90%B3;Grinding+DSA+Everyday+%F0%9F%A7%A0;Industry+Ready.+Always+Shipping.+%F0%9F%9A%80;Portfolio+%E2%86%92+deepak-vishwakarma.online+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://deepak-vishwakarma.online" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20VISIT%20MY%20PORTFOLIO-deepak--vishwakarma.online-00F7FF?style=for-the-badge&labelColor=0D1117&color=00F7FF" height="38" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
@@ -12,6 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-vishwakarma-19bb66273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/DeepakVish7025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://deepak-vishwakarma.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=DeepakVish7025&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -109,7 +116,7 @@ const deepak = {
 
 ---
 
-<p align="center"><i>⚡ Open to Full Stack roles & collaborations — let's build something that ships.</i></p>
+<p align="center"><i>⚡ Open to Full Stack roles & collaborations — see my work at <a href="https://deepak-vishwakarma.online"><b>deepak-vishwakarma.online</b></a></i></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
